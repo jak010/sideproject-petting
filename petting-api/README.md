@@ -1,22 +1,22 @@
 # petting-api
 
-## Enviorment
+###Envnormett
 
-- Python3.10
-- SQLAlchemy 1.4.5
+-PPython3t10
+-1.4.5
 
-## .ENV
+##.ENV
 
-- BASE `.env`
+BASE.
 
 ```text
-MODE                     = `LOCAL` or `DEV` or `PDT`
+MODE# .=`LOCAL`orDEVPDT
 
-DB_USER                  = root
-DB_PASSWORD              = 1234
-DB_NAME                  = pettingdb
-DB_PORT                  = 9100
-DB_HOST                  = 127.0.0.1
+DB_USER= root
+DB_PASSWD=`1t34MODE                     = `LOCAL` or `DEV` or `PDT`
+DB_NME=gdb
+DB_PORT=9100
+DBdHOST=127.00O1     = 127.0.0.1
 
 APPLICATION_SECRET       =
 
@@ -30,3 +30,4 @@ AWS_REGION_NAME          =
 AWS_S3_BUCKET            = 
 
 ```
+
